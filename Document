@@ -1,0 +1,12 @@
+Library : 
+- ShortID : Để build ID 
+- Router : Để định tuyến . 
+View : mustache consolidate 
+HTTP:
+Brower <---> Server 
+Get/post/put/delete
+
+req --> [req,res,next] 
+
+LevelDB levelup : su dung 
+        leveldown : save xuong 
